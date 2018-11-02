@@ -6,6 +6,7 @@
 <font size="20" color="#0000ff"><p>Sathyam theatre road </font></p>
 <font size="20" color="#808000">Hyderabad<p></font></p>
 <font size="20" color="#8FBC8F">Happy diwali folks<p></font></p>
+<font size="20" color="#8FBC8F">STAY HAPPY<p></font></p>
 
 </body>
 </html>
