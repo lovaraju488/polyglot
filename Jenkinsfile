@@ -1,14 +1,10 @@
-pipeline {
+pipeline{
    agent any
-   
-   stages {
-     stages('package stage'){
-      steps{
-        withMaven(maven : '3'){
+   stages{
+      stage('package stage'){
+        steps{
            sh 'mvn clean package'
         }
       }
      }
    }
-
-}
