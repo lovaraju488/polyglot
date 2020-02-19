@@ -32,7 +32,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>snapshots</name>
-        <url>http://3.12.146.183:8081/repository/maven-snapshots/</url>
+        <url>http://3.12.146.183:8081/repository/Poly-maven/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
