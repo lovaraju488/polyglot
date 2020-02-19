@@ -26,12 +26,12 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>ip-172-31-94-151-releases</name>
+        <name>releases</name>
         <url>http://3.12.146.183:8081/repository/poly-maven-rel/</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>ip-172-31-94-151-snapshots</name>
+        <name>snapshots</name>
         <url>http://3.12.146.183:8081/repository/Poly-maven/</url>
     </snapshotRepository>
 </distributionManagement>
