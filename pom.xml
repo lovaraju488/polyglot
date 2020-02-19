@@ -27,12 +27,12 @@
     <repository>
         <id>central</id>
         <name>ip-172-31-94-151-releases</name>
-        <url>http://54.147.78.73:8081/artifactory/my-maven-repo</url>
+        <url>http://18.221.218.185:8081/repository/Poly-maven</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>ip-172-31-94-151-snapshots</name>
-        <url>http://18.221.218.185:8081/repository/Poly-maven/</url>
+        <url>http://18.221.218.185:8081/repository/Poly-maven</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
